@@ -1,0 +1,25 @@
+{
+  "name": "beatworker",
+  "version": "1.0.0",
+  "description": "Use a web worker to detect beats in of an audio source",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fergalhanley/beatworker.git"
+  },
+  "keywords": [
+    "beat",
+    "detection",
+    "web",
+    "worker"
+  ],
+  "author": "Fergal Hanley <fergalhanley@gmail.com> (http://fergalhanley.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fergalhanley/beatworker/issues"
+  },
+  "homepage": "https://github.com/fergalhanley/beatworker#readme"
+}
